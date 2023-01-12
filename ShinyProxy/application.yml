@@ -5,10 +5,10 @@ proxy:
   admin-groups: scientists
   # Example: 'simple' authentication configuration
   users:
-  - name: jack
+  - name: alice
     password: password
     groups: scientists
-  - name: jeff
+  - name: bob
     password: password
     groups: mathematicians
 
