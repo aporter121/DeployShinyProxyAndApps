@@ -1,6 +1,6 @@
 FROM openanalytics/r-base
 
-LABEL maintainer "Enrico Rossini <enrico.rossini.uk@live.com>"
+LABEL maintainer "Alex Porter <alex.porter1@nhs.net>"
 
 ARG project=testApp
 
